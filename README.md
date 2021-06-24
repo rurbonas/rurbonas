@@ -1,5 +1,5 @@
-### Computer Science Graduate
-### Junior DevOps consultant
+Computer Science Graduate
+Junior DevOps consultant
 
 <!--
 **rurbonas/rurbonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
